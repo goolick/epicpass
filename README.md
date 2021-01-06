@@ -10,6 +10,7 @@ Edit the script, replacing day parameter with the target date, e.g. 12/31/2020
 4. Open Console window (right click -> inspect element, then click console)
 
 Now you are ready to run the script
+
 5. Paste the script into the console and hit enter (this defines initialSet()
 6. Run script by typing initialSet() and hitting enter
 
